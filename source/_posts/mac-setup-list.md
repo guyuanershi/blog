@@ -1,9 +1,11 @@
 ---
-title: mac-setup-list
+title: Mac Setup List
 date: 2018-01-25 21:51:25
 tags:
 ---
+The following list is hint for setup Mac. Continuing adding.
 
+<!-- more -->
 ## iTerm2
 [iTerm2](http://www.iterm2.com)
 
