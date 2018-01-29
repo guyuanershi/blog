@@ -45,4 +45,4 @@ npm install hexo -g
 
 ## VSCode
 There are a lot editor, but for me `Vim` and `VScode` is enough.
-[VSCode](https://code.visualstudio.com/)
+Download from here: [VSCode](https://code.visualstudio.com/)
