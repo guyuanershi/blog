@@ -29,17 +29,20 @@ export TERM=xterm-256color
 ```
 
 ## Git
+I tred a lot of time to download Git from [Git-SCM](https://git-scm.com/downloads), but never successed. So I changed to use `homebrew` to install git instead.
 ```bash
 brew install git
 ```
 
 ## NPM (Nodejs)
-Install NPM just install [Nodejs](https://nodejs.org/en/).
+NPM cannot install itself, it can be installed by [Nodejs](https://nodejs.org/en/).
 
 ## Hexo
+I use [Hexo](https://hexo.io/) to setup my [Blog](http://gu-yuan.top), and using GitHub to store my blog.
 ```bash
 npm install hexo -g
 ```
 
 ## VSCode
+There are a lot editor, but for me `Vim` and `VScode` is enough.
 [VSCode](https://code.visualstudio.com/)
