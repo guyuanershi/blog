@@ -43,6 +43,18 @@ I use [Hexo](https://hexo.io/) to setup my [Blog](http://gu-yuan.top), and using
 npm install hexo -g
 ```
 
+## Fira Code
+I'd like to use `Fira Code`, it gives some nice symbol, such as >=,
+Download from [here](https://github.com/tonsky/FiraCode)
+
+Open `Font Book` and select the download `Fira Code` (.otf, .ttf)
+
 ## VSCode
 There are a lot editor, but for me `Vim` and `VScode` is enough.
 Download from here: [VSCode](https://code.visualstudio.com/)
+
+>Set Fira Code in VSCode ([link](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions))
+```
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true
+```
