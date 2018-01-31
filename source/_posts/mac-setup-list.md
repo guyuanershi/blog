@@ -42,6 +42,17 @@ I use [Hexo](https://hexo.io/) to setup my [Blog](http://gu-yuan.top), and using
 ```bash
 npm install hexo -g
 ```
+For I am using Git for this blog, so need to use hexo git deploy toolkit.
+```bash
+npm install hexo-deployer-git --save
+```
+and then setup `_config.yml` in *deploy* block
+```
+deploy:
+  type: git
+  repo: https://github.com/guyuanershi/guyuanershi.github.io.git
+  branch: master
+```
 
 ## Fira Code
 I'd like to use `Fira Code`, it gives some nice symbol, such as >=,
