@@ -58,7 +58,10 @@ deploy:
 I'd like to use `Fira Code`, it gives some nice symbol, such as >=,
 Download from [here](https://github.com/tonsky/FiraCode)
 
+* Mac:  
 Open `Font Book` and select the download `Fira Code` (.otf, .ttf)
+* Win:  
+Double click font file to install
 
 ## VSCode
 There are a lot editor, but for me `Vim` and `VScode` is enough.
