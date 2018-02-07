@@ -1,7 +1,7 @@
 ---
-title: Using virtualenv
+title: Using Virtualenv
 date: 2018-01-31 11:08:44
-tags:
+tags: [Python]
 ---
 It is a good practice to use virtualenv to setup independent pythoon envirnoment. Especially, there are multi-version of python this machine.
 For details check [here](https://virtualenv.pypa.io/en/stable/)

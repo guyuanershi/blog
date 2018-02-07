@@ -1,7 +1,7 @@
 ---
 title: Mac Setup List
 date: 2018-01-25 21:51:25
-tags:
+tags: [Mac]
 ---
 The following list is hint for setup Mac. Continuing adding.
 
