@@ -72,3 +72,10 @@ Download from here: [VSCode](https://code.visualstudio.com/)
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true
 ```
+
+## Zsh
+Check zsh installed
+```bash
+$ zsh --version
+```
+Follow the page to install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
