@@ -29,3 +29,7 @@ A[i++] = n
 ## Convert Sorted Array to Binary Search Tree (id:108)
 这个问题比较容易用递归的方式实现，但是我实现的并不是很简洁(16ms)，BST可以看做是不断二分的数组，中间的元素作为root，两边分别作为left和right，以此类推。关于如果提高速度，主要是是否使用vector的内置函数，vector::begin(), vector::end(), 如果用index得方式会跟快，但是不是很一目了然。
 
+## Two Sum II - Input array is sorted (id:167)
+直接的想法就是循环查找，但是肯定会有效率问题，毕竟是O(n*n).考虑过双指针的方式，但是没想出来。。。
+看了下讨论的方法，双指针确实能解决问题。之所以没想出来，是没考虑到`umbers[right] + numbers[left] > target` 后可以往前挪，同理小于时往后挪。
+一直卡在`numbers[right] + numbers[left] != taget`, 该怎么做。。。。
