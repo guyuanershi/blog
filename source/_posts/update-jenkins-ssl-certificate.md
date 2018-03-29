@@ -31,3 +31,6 @@ $ net start jenkins
 
 >So it also can tranform other type to keystore by choicing `-srcstoretype`
 >`keytool` is a java's keytool
+
+reference:
+[Jenkins Wiki](https://wiki.jenkins.io/pages/viewpage.action?pageId=135468777)
